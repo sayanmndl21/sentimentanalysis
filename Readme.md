@@ -24,4 +24,4 @@ To Do:
 (Try to generate confusion matrix and ROC curves along with accuracy scores and examples)
 (try to maintain the same vocab, embedding size and min/max length)
 
-4. Prepare outline for document.
+4. Prepare outline for document - Sayan
